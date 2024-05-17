@@ -25,7 +25,7 @@ console.log(name3.toLowerCase());
 console.log(name4.toTi);
 
 
-/ const word = `extravangaza`;
+// const word = `extravangaza`;
 // console.log({character: wordla});
 // console.log({character: word[8]});
 // console.log({character: word[9]});

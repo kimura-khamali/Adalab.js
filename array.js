@@ -62,3 +62,4 @@ console.log(square.slice(1,3));
  console.log({num3});
  console.log({rest});
 
+//filter returns a new array that matches but using callback which are arguments (item ,index) but in this case returning true meaning it removes duplicate in the previous array
